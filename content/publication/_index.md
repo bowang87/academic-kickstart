@@ -1,5 +1,5 @@
 +++
-title = "Publications"
+title = "Selected Publications"
 date = 2017-01-01T00:00:00
 
 # List format.
@@ -12,6 +12,6 @@ list_format = 3
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
+image = "SIMLR"
 caption = ""
 +++
