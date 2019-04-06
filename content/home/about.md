@@ -35,7 +35,7 @@ weight = 5
 
 # Biography
 
-Bo Wang is a Faculty of Medicine at University of Toronto. He leads the AI team for Peter Munk Cardiac Centre (PMCC) at University Health Network (UHN). He is also a faculty member of Vector Institute at Toronto. 
+Bo Wang is an assistant professor at Dept. of Medical Biophysics at University of Toronto. He leads the AI team for Peter Munk Cardiac Centre (PMCC) at University Health Network (UHN). He is also a faculty member of Vector Institute at Toronto. 
 
 Bo obtained his PhD from the Department of Computer Science at Stanford University, and has extensive industrial research experience at many leading companies such as Illumina and Genentech. His PhD work covers statistical methods for solving problems in computational biology with an emphasis on integrative cancer analysis and single-cell analysis.
 

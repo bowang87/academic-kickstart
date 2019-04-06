@@ -26,7 +26,7 @@ abstract = "Networks are ubiquitous in biology where they encode connectivity pa
 
 url_pdf = "https://www.nature.com/articles/s41467-018-05469-x"
 url_code = "http://snap.stanford.edu/ne/"
-abstract_short = "Network Enhancement (NE) is an automatic algorithm that denoises biological networks."
+abstract_short = "Network Enhancement (NE) is an automatic algorithm that denoises biological networks. This work has been recently published in Nature Communications."
 
 # Is this a selected publication? (true/false)
 selected = false

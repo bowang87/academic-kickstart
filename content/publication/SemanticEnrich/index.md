@@ -27,7 +27,7 @@ abstract = "We propose a novel single shot object detection network named Detect
 
 url_pdf = "http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0246.pdf"
 url_code = "https://github.com/bairdzhang/des"
-abstract_short = "An improved single-stage object detection system that utilizes enriched semantics by applying segmentation modules in detection."
+abstract_short = "An improved single-stage object detection system that utilizes enriched semantics by applying segmentation modules in detection.This work has been accepted to CVPR 2018."
 
 # Is this a selected publication? (true/false)
 selected = false
